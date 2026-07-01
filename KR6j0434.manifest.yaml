@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0434/v1
+canonical_location: https://kanripo.org/bkk/KR6j0434/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 說矩里迦龍王像法
+  identifiers:
+    alt_id:
+    - T21n1207
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1207.xml
+    old_id: T21n1207
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0434_000.yaml, hash: 'sha256:18f64309aa2ea03a287d67307d3b6cf8b263840bf6b0f217e19256772e2c6b17'}
+  - {seq: 1, filename: KR6j0434_001.yaml, hash: 'sha256:daca83735eb7be9e0a5a75ae8303366c72e382a093d2323da37f8bd321b42506'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0434_001.markers.yaml, hash: 'sha256:fd5dccf4ea43fe7deddca92d00fb2e812b54d50e59386da7dd91f013edff75fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0434_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 754
+  label: 說矩里迦唐作尊勅龍王像法
+  type: juan
+  level: 1
+hash: sha256:f8ab3afa6eef483b306ac1e3c01134464775585f422dccfd0fd7a9de14986b20
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

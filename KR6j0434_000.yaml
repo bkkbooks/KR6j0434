@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0434/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 說矩里迦龍王像法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1207.xml
+    old_id: T21n1207
+hash: sha256:18f64309aa2ea03a287d67307d3b6cf8b263840bf6b0f217e19256772e2c6b17
