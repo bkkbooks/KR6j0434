@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0434_000.yaml, hash: 'sha256:18f64309aa2ea03a287d67307d3b6cf8b263840bf6b0f217e19256772e2c6b17'}
-  - {seq: 1, filename: KR6j0434_001.yaml, hash: 'sha256:daca83735eb7be9e0a5a75ae8303366c72e382a093d2323da37f8bd321b42506'}
+  - {seq: 1, filename: KR6j0434_001.yaml, hash: 'sha256:cbcb054082534c3c4c3ed266b9dc78e684081e0e0fd4f8ffd23db804580aea3c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0434_001.markers.yaml, hash: 'sha256:fd5dccf4ea43fe7deddca92d00fb2e812b54d50e59386da7dd91f013edff75fd'}
+  - {seq: 0, role: markers, filename: assets/KR6j0434_000.markers.yaml, hash: 'sha256:fb6218613c53a01c66452501eeb91e2b4567a55ff76a75523f1f5ccfbbf68137'}
+  - {seq: 1, role: markers, filename: assets/KR6j0434_001.markers.yaml, hash: 'sha256:7121bc530d10b3c0d9c59781e9b525d3abbcac5620e6900ba8d490c7544dff20'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 說矩里迦唐作尊勅龍王像法
   type: juan
   level: 1
-hash: sha256:f8ab3afa6eef483b306ac1e3c01134464775585f422dccfd0fd7a9de14986b20
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:dea6ffafdc7dfbc0a938511a28c72212cac61a92643865a7aa45dfaf91cb2596
